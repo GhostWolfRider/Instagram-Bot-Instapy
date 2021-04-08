@@ -53,7 +53,7 @@ An Instagram bot that can perform many tasks like commenting, following, unfollo
 
 9. Open my_bot.py
 
-10. Enter your instagram username & password at line 3
+10. Enter your instagram username & password at # line 3
 
    eg:- ```session = InstaPy(username = "Enter your username", password = "Enter your password", headless_browser = False)``` 
 
@@ -61,4 +61,4 @@ An Instagram bot that can perform many tasks like commenting, following, unfollo
 
   ### ```python3 my_bot.py ```
 
-## (: Now, seat back and grab some popcourn and enjoy watching your bot usign you instagram :) 
+### (: Now, seat back and grab some popcourn and enjoy watching your bot usign you instagram :) 
